@@ -1,7 +1,8 @@
+# info ? 
 # CachyOS-Settings
 # XD
 This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations.
-
+## test
 ## udev rules
 - ZRAM
 - audio latency
